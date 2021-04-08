@@ -1,2 +1,2 @@
-# XNEZORH 
-### it is me again
+# Xnezorh
+### slovak minecraft stuff creator
