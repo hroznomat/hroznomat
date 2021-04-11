@@ -34,11 +34,11 @@
 }
 ```
 
-```
+```javascript
 {
 	"pack": {
 		"pack_format": 6,
-		"description": [{"text":"AFK Display","color":"gold"},{"text":"\nvanillatweaks.net","color":"yellow"}]
+		"description": [{"text":"DatapackName","color":"gold"},{"text":"\nvanillatweaks.net","color":"yellow"}]
 	}
 }
 ```
