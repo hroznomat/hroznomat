@@ -33,3 +33,12 @@
   }
 }
 ```
+
+```
+{
+	"pack": {
+		"pack_format": 6,
+		"description": [{"text":"AFK Display","color":"gold"},{"text":"\nvanillatweaks.net","color":"yellow"}]
+	}
+}
+```
