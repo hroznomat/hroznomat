@@ -1,4 +1,4 @@
-## QuickArmorSwap
+## Minecraft Configs
 ```shell
 [
 {
@@ -16,4 +16,20 @@
   "dependencies": []
 }
 ]
+```
+
+```
+{
+  "pack": {
+    "pack_format": 3,
+    "description": "My Resource Pack"
+  },
+  "language": {
+    "LANG_COUNTRY": {
+      "name": "My Custom Language",
+      "region": "Country/Region name",
+      "bidirectional": false
+    }
+  }
+}
 ```
