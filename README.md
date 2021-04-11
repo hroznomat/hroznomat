@@ -1,5 +1,5 @@
 ## Minecraft Configs
-```java
+```js
 [
 {
   "modid": "qas",
@@ -18,7 +18,7 @@
 ]
 ```
 
-```java
+```js
 {
   "pack": {
     "pack_format": 3,
