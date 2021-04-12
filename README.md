@@ -36,7 +36,7 @@
 }
 ```
 
-`mcmod.info` 
+`pack.mcmeta` (datapack) 
 ```javascript
 {
 	"pack": {
