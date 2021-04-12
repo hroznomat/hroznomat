@@ -1,4 +1,5 @@
 ## Minecraft Configs
+`mcmod.info`
 ```js
 [
 {
@@ -18,6 +19,7 @@
 ]
 ```
 
+`pack.mcmeta`
 ```js
 {
   "pack": {
@@ -34,6 +36,7 @@
 }
 ```
 
+`mcmod.info` (datapack)
 ```javascript
 {
 	"pack": {
